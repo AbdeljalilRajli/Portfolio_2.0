@@ -7,9 +7,9 @@ This repository contains my portfolio as a full stack developer. It showcases my
 I am a full stack developer with 3+ years of experience. I am proficient in a variety of technologies, including:
 
 <ul>
-    <li><b>Frontend :</b> HTML, CSS, JavaScript, React, Redux, Angular, Bootstrap</li>
-    <li><b>Backend :</b> Node.js, Express, MongoDB, MySQL, PostgreSQL</li>
-    <li><b>Other :</b> Git, GitHub, Docker, Kubernetes</li>
+    <li><b>Frontend :</b> HTML, CSS, JavaScript, React, Redux, Bootstrap</li>
+    <li><b>Backend :</b> Node.js, Laravel, PHP, MySQL</li>
+    <li><b>Other :</b> Git, GitHub, Docker</li>
 </ul>
 
 I am passionate about learning new technologies and solving complex problems. I am also a strong communicator and team player.
